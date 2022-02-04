@@ -6,7 +6,7 @@ Just cloned this into my local pc
 
 - Markdown editing on a new branch :smiley:
 
-- Sad branch was deleted a while ago :no_face:
+- Sad branch was deleted a while ago :no_mouth:
 
 Dont forget to 
 
