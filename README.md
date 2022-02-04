@@ -4,7 +4,9 @@
 
 Just cloned this into my local pc
 
-Markdown editing on a new branch :)
+- Markdown editing on a new branch :)
+
+- Sad branch was deleted a while ago ;(
 
 Dont forget to 
 
