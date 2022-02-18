@@ -1,5 +1,5 @@
 "VIM-PLUG AREA
-call plug#begin('C:\Users\AK-Win\AppData\Local\nvim\plugged')
+call plug#begin('C:\Users\Name\AppData\Local\nvim\plugged')
 
 
 "-----Python Semantic Syntax highlighting-------
