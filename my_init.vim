@@ -1,5 +1,5 @@
 "VIM-PLUG AREA
-call plug#begin('C:\Users\Name\AppData\Local\nvim\plugged')
+call plug#begin('')
 
 
 "-----Python Semantic Syntax highlighting-------
@@ -27,6 +27,7 @@ call plug#end()
 :set ignorecase
 :set nohlsearch
 :set clipboard=unnamedplus
+:set foldmethod=indent
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Text, tab and indent related
