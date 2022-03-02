@@ -13,3 +13,6 @@ Dont forget to
 >:wq
 
 man
+
+
+Added an edit from dual boot and different ssh key on same local repo
