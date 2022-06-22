@@ -1,0 +1,9 @@
+
+# added for glamour
+echo ""
+neofetch
+
+# added for login message
+echo ""
+printf "\e[0;36m \nSourcing ~/.bashrc and applying settings now \e[0m \n\n"
+source $HOME/.bashrc

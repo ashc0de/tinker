@@ -100,10 +100,3 @@ if __name__ == '__main__':
     url = 'https://pythonforundergradengineers.com/'
 
     add_new_bookmark(path, url)
-
-
-
-
-
-
-
