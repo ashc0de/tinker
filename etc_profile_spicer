@@ -3,7 +3,7 @@
 echo ""
 neofetch
 
-# added for login message
+# added for to show after login message
 echo ""
 printf "\e[0;36m \nSourcing ~/.bashrc and applying settings now. Have a happy laptop day \e[0m \n\n"
 source $HOME/.bashrc
