@@ -1,9 +1,9 @@
-# added from external script
+# added from .bashrc of user script
 # added for glamour
 echo ""
 neofetch
 
-# added for login message
+# added for displaying as login message
 echo ""
 printf "\e[0;36m \nSourcing ~/.bashrc and applying settings now. Have a happy laptop day \e[0m \n\n"
 source $HOME/.bashrc
